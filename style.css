@@ -3,6 +3,7 @@
          font-size: 16px;
          max-width: 960px;
          margin: auto;
+         
      }
      h1 {
          font-size: 3em;
@@ -28,6 +29,7 @@
      header {
          text-align: center;
          margin: auto 2em;
+         
      }
 
      section {
@@ -54,4 +56,5 @@
      }
      #mainLeft {
          border-right: 1px solid lightgray;
+         
      }
